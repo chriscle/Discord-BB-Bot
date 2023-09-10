@@ -1,1 +1,1 @@
-# Discord-BB-Not
+# Discord-BB-Bot
